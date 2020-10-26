@@ -1,6 +1,6 @@
 # fhir-facade-prototype
 
-A prototype of a node.js fhir facade server. Only a subset of available resources are enabled (through config.js). Currently, all resources have a search method that will return an error saying the method is not implemented. The patient resource also has a searchById method that will return dummy patient data.
+A prototype of a node.js fhir facade server which builds upon https://github.com/Asymmetrik/node-fhir-server-core and references https://github.com/Asymmetrik/fhir-facade-starter. Only a subset of available resources are enabled (through config.js). Currently, all resources have a search method that will return an error saying the method is not implemented. The patient resource also has a searchById method that will return dummy patient data.
 
 Local dev instructions:
 
