@@ -14,7 +14,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:3000/4_0_0/Patient",
+							"raw": "http://localhost:3000/4_0_0/DiagnosticReport",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -22,7 +22,7 @@
 							"port": "3000",
 							"path": [
 								"4_0_0",
-								"Patient"
+								"DiagnosticReport"
 							]
 						}
 					},
@@ -118,7 +118,17 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": ""
+							"raw": "http://localhost:3000/4_0_0/Patient/1",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "3000",
+							"path": [
+								"4_0_0",
+								"Patient",
+								"1"
+							]
 						}
 					},
 					"response": []
