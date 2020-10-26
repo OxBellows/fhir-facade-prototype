@@ -4,13 +4,13 @@ A prototype of a node.js fhir facade server which uses https://github.com/Asymme
 
 Local dev instructions:
 
-1. Install Node.js + NPM: https://www.npmjs.com/get-npm
+1. If not already installed, install Node.js + NPM: https://www.npmjs.com/get-npm
 
 2. Navigate to the project directory
 
-2. Run npm install to install dependencies
+2. Run `npm install` to install dependencies
 
-3. Run npm run start - it may take a moment for the server to run
+3. Run `npm run start` - it may take a moment for the server to run
 
 You can test the server by importing the Postman collection inside of /postman and using those requests while the server is running.
 
