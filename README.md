@@ -12,5 +12,5 @@ Local dev instructions:
 
 3. Run `npm run start` - it may take a moment for the server to run
 
-You can test the server by importing the Postman collection inside of /postman and using those requests while the server is running.
+You can test the server locally by importing the Postman collection inside of /postman and using those requests while the server is running.
 
