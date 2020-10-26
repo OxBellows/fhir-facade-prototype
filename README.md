@@ -10,7 +10,7 @@ Local dev instructions:
 
 2. Run `npm install` to install dependencies
 
-3. Run `npm run start` - it may take a moment for the server to run
+3. Run `npm run start` - it may take a moment for the server to run (if your requests are timing out at first, this is probably why)
 
 You can test the server locally by importing the Postman collection inside of /postman and using those requests while the server is running.
 
